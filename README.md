@@ -1,6 +1,6 @@
 # TCP-IP-DVD-Store Readme
-# Aims at implementing a DVD Store that can concurrently accept clients utilizing either TCP or UDP Protocol
-# Author : Vishwanath Iyer
+Aims at implementing a DVD Store that can concurrently accept clients utilizing either TCP or UDP Protocol
+Author : Vishwanath Iyer
 
 Program: Server_Q2.c
 
